@@ -1,8 +1,8 @@
 import pygame
 
-from config import Config
-from cell import Cell
-from utils import remove_walls, find_path
+from src.config import Config
+from src.cell import Cell
+from src.utils import remove_walls, find_path
 
 if __name__ == "__main__":
     pygame.init()
