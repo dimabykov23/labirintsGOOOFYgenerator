@@ -2,7 +2,7 @@ from random import choice
 
 import pygame
 
-from config import Config
+from .config import Config
 
 
 class Cell:
